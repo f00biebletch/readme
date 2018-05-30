@@ -29,7 +29,7 @@
 ### isNot
 * reserved for 1:1 and/or review
 * surprising; you will not be surprised at your review
-* transactional; sometimes you will adapt to feedbac
+* transactional; sometimes you will adapt to feedback, and I will appreciate if you question/challenge me on feedback
 
 ## Management
 ### is
