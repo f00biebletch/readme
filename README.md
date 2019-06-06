@@ -26,7 +26,7 @@
   * we will work together to help you feel comfortable to give me feedback in a style that works for you
   * I will strive to learn to listen to you
 
-### isNot
+### isNot:
 * reserved for 1:1 and/or review
 * surprising; you will not be surprised at your review
 * transactional; sometimes you will adapt to feedback, and I will appreciate if you question/challenge me on feedback
