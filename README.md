@@ -4,23 +4,19 @@
 ### is:
 * single dad of 3 daughters and 2 sons, with 3 in university and 2 at home.  I grew up in the Shenandoah Valley of Virginia
 * blessed to have a high school math teacher who challenged me to master an Apple ][+
-* blunt, direct, and often too open
-* a minimalist
-  * write as little code as possible
-  * institute as little process as possible
-  * have as few managers (but as many leaders) as possible
+* blessed to have a mother who has stuck by him through all of his bad choices
+* a minimalist, in life and work
+* ISTJ
 
 ### isNot
 * always considerate of different learning styles
-  * I sometimes intimidate folks who prefer less bluntness
-* (seeminlgy) strongly structured
-  * raising 5 kids is not possible with direct control or OCD
-* good at setting context
-  * I often rely on instinct and don't always recognize that others are confused or uncertain
+* a procrastinator
+* always good at setting context
+* patient
 
 ## Feedback
 ### is:
-* streamed
+* streamed and persisted
 * sometimes given in a group setting
 * bidirectional
   * we will work together to help you feel comfortable to give me feedback in a style that works for you
@@ -36,7 +32,7 @@
 * execution
   * transparently deliver product and execute on my commitments
 * hiring
-  * bring in great folks
+  * bring in (and retain+include) great folks
 * helping you
   * align the needs and direction of the team with your needs, and vice versa
 * balancing speed with correctness
@@ -47,7 +43,7 @@
 * creating process
 * attending meetings
   * while I do, I endeavor to be on the floor as much as possible
-* filling out paperwork
+* filling out paperwork (although I do)
 
 ## Communication
 * Slack/email/text me anytime, I will respond within an hour
@@ -58,7 +54,7 @@
 ### is
 * your time, your agenda; I will help you develop that skill
 * a balance of looking at short term and long term goals
-* documented; let's keep track of what we share
+* documented and structured
 * a time to share our global state; I will often ask you how you feel about things on a scale of 1-10
 
 ### is not:
