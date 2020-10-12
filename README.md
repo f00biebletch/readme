@@ -2,11 +2,12 @@
 
 ## Kevin
 ### is:
-* single dad of 3 daughters and 2 sons, with 3 in university and 2 at home.  I grew up in the Shenandoah Valley of Virginia
-* blessed to have a high school math teacher who challenged me to master an Apple ][+
+* father of 7 kids from 2 marriages, ages 24,22,21,18,16,13,12
+* I grew up in the Shenandoah Valley of Virginia
+* blessed to have a high school math teacher who challenged me to master an Apple 2
 * blessed to have a mother who has stuck by him through all of his bad choices
 * a minimalist, in life and work
-* ISTJ
+* ISTJ, equal parts 8 and 1 on enneageram
 
 ### isNot
 * always considerate of different learning styles
