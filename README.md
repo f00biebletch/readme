@@ -1,64 +1,24 @@
 # manager readme
 
 ## Kevin
-### is:
-* father of 7 kids from 2 marriages, ages 24,22,21,18,16,13,12
-* I grew up in the Shenandoah Valley of Virginia
-* blessed to have a high school math teacher who challenged me to master an Apple 2
-* blessed to have a mother who has stuck by him through all of his bad choices
-* a minimalist, in life and work
+* single *father* of 5 kids, ages 24,23,22,18,16
+* passionate about *learning*
+* passionate about *integrity*
+  * low tolerance for grey/ambiguous areas
+* prefers *few, deep* relationships
+  * not always a great influencer
+* Disciplined *GSDer*
+  * not always adept at going with the flow
 * ISTJ, equal parts 8 and 1 on enneageram
 
-### isNot
-* always considerate of different learning styles
-* a procrastinator
-* always good at setting context
-* patient
-
-## Feedback
-### is:
-* streamed and persisted
-* sometimes given in a group setting
-* bidirectional
-  * we will work together to help you feel comfortable to give me feedback in a style that works for you
-  * I will strive to learn to listen to you
-
-### isNot:
-* reserved for 1:1 and/or review
-* surprising; you will not be surprised at your review
-* transactional; sometimes you will adapt to feedback, and I will appreciate if you question/challenge me on feedback
-
-## Management
-### is
-* execution
-  * transparently deliver product and execute on my commitments
-* hiring
-  * bring in (and retain+include) great folks
-* helping you
-  * align the needs and direction of the team with your needs, and vice versa
-* balancing speed with correctness
-
-### isNot
-* giving orders
-  * sometimes, speed requires it, but there's usually better ways
-* creating process
-* attending meetings
-  * while I do, I endeavor to be on the floor as much as possible
-* filling out paperwork (although I do)
+## Leadership
+* **execution**: transparently deliver product and execute on my commitments
+* **hiring**: bring in (and retain+include) great folks
+* **alignment**: build alliances with shared goals and vision
+* **situational**: from the front or from the back, depending on need
+* **trust-based**: integrity matters
 
 ## Communication
 * Slack/email/text me anytime, I will respond within an hour
 * My kids come first
-  * If you see me on my phone in a meeting or while talking with you, it is because one of my kids needs something
-
-## 1:1
-### is
-* your time, your agenda; I will help you develop that skill
-* a balance of looking at short term and long term goals
-* documented and structured
-* a time to share our global state; I will often ask you how you feel about things on a scale of 1-10
-
-### is not:
-* a status check
-* (necessarily) friend time
-* the primary vehicle for feedback
+  * If you see me on my phone in a meeting or while talking with you, it's my kids
