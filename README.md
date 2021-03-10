@@ -1,7 +1,7 @@
 # manager readme
 
 ## Kevin
-* single *father* of 5 kids, ages 24,23,22,18,16
+* single *father* of 5 kids, ages 27,26,25,21,19
 * passionate about *learning*
 * passionate about *integrity*
   * low tolerance for grey/ambiguous areas
