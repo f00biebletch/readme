@@ -6,11 +6,11 @@
 * Strengths: Learner, Relator, Achiever, Responsibility, Arranger
 
 ## Leadership
-* Trust: prefer truthfulness
+* Trust: prefer truthfulness and integrity
 * Execution: prefer action
 * People: prefer relationships over processes
 
-## Expectations
-* Care for your family first
-* Care for your health first: exercise, good food, sunshine, and hugs matter most
+## Expectations for my teams
+* Care for your family
+* Care for your health: exercise, good food, sunshine, and hugs
 * Be truthful in every interaction
